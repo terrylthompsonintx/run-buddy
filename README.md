@@ -12,3 +12,5 @@ https://terrylthompsonintx.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Terry Thompson
+
+### ©️2019 Run Buddy, Inc
