@@ -332,6 +332,31 @@ section {
   display: flex;
 }
 
+.service-grid-container {
+  max-width: 940px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 100px);
+  grid-gap: 10px;
+}
+.service-grid-item {
+  background-color: orange;
+  border: solid;
+  padding: 1em;
+  color: black;
+}
+.services {
+  background: #fce138; 
+}
+
+.service-grid-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+
 @media screen and (max-width: 980px) {
   header {
     padding-bottom: 0;
